@@ -1,8 +1,8 @@
 # Analytics-on-UN-Population
 
-## 1.Aim
+## Aim
 This repository will collect data in csv format and process it to display bar plots using matplotlib.
-## How to get the data
+## 1.How to get the data
 The datasets can downloaded from the repo.
 
 
@@ -16,6 +16,8 @@ The dataset names are
 **3.asean.csv**
 ## 2.Requirements
 All the requirements and dependencies store in requirements.txt and install all requirements and dependencies run
+
+
 ```pip3 install -r requirements.txt```
 
 ## 3.Run Project
