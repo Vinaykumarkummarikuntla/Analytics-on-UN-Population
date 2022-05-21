@@ -1,6 +1,6 @@
 # Analytics-on-UN-Population
 
-## 1.AIM
+## 1.Aim
 This repository will collect data in csv format and process it to display bar plots using matplotlib.
 ## How to get the data
 The datasets can downloaded from the repo.
